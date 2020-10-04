@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="364fca5e-1dd3-4df1-a91f-2df0e2a6f90b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/movie.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/wheesung.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/index_lab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/index_lab.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week04/myCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -20,15 +34,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hCvXcY1iKDWvV8ISzAO88aIf3s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,10 +59,20 @@
       <option name="presentableId" value="Default" />
       <updated>1599527928561</updated>
       <workItem from="1599527929676" duration="504000" />
+      <workItem from="1599819927741" duration="60000" />
+      <workItem from="1600042875514" duration="5245000" />
+      <workItem from="1600485569949" duration="247000" />
+      <workItem from="1601103621681" duration="594000" />
+      <workItem from="1601120148313" duration="759000" />
+      <workItem from="1601628534114" duration="595000" />
+      <workItem from="1601778594434" duration="2240000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
